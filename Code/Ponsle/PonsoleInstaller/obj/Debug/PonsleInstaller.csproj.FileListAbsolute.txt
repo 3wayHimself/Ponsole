@@ -1,0 +1,10 @@
+D:\Ponsle\PonsoleInstaller\obj\Debug\PonsoleInstaller.Main.resources
+D:\Ponsle\PonsoleInstaller\obj\Debug\PonsoleInstaller.Properties.Resources.resources
+D:\Ponsle\PonsoleInstaller\obj\Debug\PonsleInstaller.csproj.GenerateResource.cache
+D:\Ponsle\PonsoleInstaller\obj\Debug\PonsleInstaller.csproj.CoreCompileInputs.cache
+D:\Ponsle\PonsoleInstaller\bin\Debug\ponsleinst.exe.config
+D:\Ponsle\PonsoleInstaller\bin\Debug\ponsleinst.exe
+D:\Ponsle\PonsoleInstaller\bin\Debug\ponsleinst.pdb
+D:\Ponsle\PonsoleInstaller\obj\Debug\ponsleinst.exe
+D:\Ponsle\PonsoleInstaller\obj\Debug\ponsleinst.pdb
+D:\Ponsle\PonsoleInstaller\obj\Debug\PonsleInstaller.csprojResolveAssemblyReference.cache

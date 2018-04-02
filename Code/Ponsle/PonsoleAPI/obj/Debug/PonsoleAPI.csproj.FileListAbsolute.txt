@@ -1,0 +1,6 @@
+D:\Ponsle\PonsoleAPI\bin\Debug\PonsoleAPI.dll
+D:\Ponsle\PonsoleAPI\bin\Debug\PonsoleAPI.pdb
+D:\Ponsle\PonsoleAPI\obj\Debug\PonsoleAPI.csprojResolveAssemblyReference.cache
+D:\Ponsle\PonsoleAPI\obj\Debug\PonsoleAPI.csproj.CoreCompileInputs.cache
+D:\Ponsle\PonsoleAPI\obj\Debug\PonsoleAPI.dll
+D:\Ponsle\PonsoleAPI\obj\Debug\PonsoleAPI.pdb
