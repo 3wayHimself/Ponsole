@@ -1,0 +1,9 @@
+D:\Ponsle\Ponsole_std\bin\Debug\Ponsle_std.dll
+D:\Ponsle\Ponsole_std\bin\Debug\Ponsle_std.pdb
+D:\Ponsle\Ponsole_std\bin\Debug\PonsleAPI.dll
+D:\Ponsle\Ponsole_std\bin\Debug\PonsleAPI.pdb
+D:\Ponsle\Ponsole_std\obj\Debug\Ponsle_std.csprojResolveAssemblyReference.cache
+D:\Ponsle\Ponsole_std\obj\Debug\Ponsle_std.csproj.CoreCompileInputs.cache
+D:\Ponsle\Ponsole_std\obj\Debug\Ponsle_std.csproj.CopyComplete
+D:\Ponsle\Ponsole_std\obj\Debug\Ponsle_std.dll
+D:\Ponsle\Ponsole_std\obj\Debug\Ponsle_std.pdb

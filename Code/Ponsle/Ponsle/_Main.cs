@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Ponsle.Exceptions;
 using PonsleAPI;
 using System.Security.Principal;
+using System.Runtime.InteropServices;
 
 namespace Ponsle
 {
@@ -104,6 +105,8 @@ namespace Ponsle
 
             Console.Clear();
             Console.WriteLine("Ponsle | The open-source C# terminal");
+            consoleOutput.PrintNewLine();
+            Console.WriteLine("Type exit to quit Ponsle");
             consoleOutput.PrintNewLine();
 
             while (!exit)

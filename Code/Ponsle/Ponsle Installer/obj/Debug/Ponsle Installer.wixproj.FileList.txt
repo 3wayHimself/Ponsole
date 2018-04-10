@@ -1,0 +1,6 @@
+D:\Ponsle\Ponsle Installer\bin\Debug\Ponsle_Installer.msi
+D:\Ponsle\Ponsle Installer\bin\Debug\Ponsle_Installer.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\Ponsle Installer.wixproj.BindContentsFileListnull.txt
+obj\Debug\Ponsle Installer.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Ponsle Installer.wixproj.BindBuiltOutputsFileListnull.txt

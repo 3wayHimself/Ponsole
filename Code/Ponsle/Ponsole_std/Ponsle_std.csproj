@@ -41,9 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PonsoleSTD.cs" />
+    <Compile Include="Commands\beep.cs" />
+    <Compile Include="Commands\clear.cs" />
+    <Compile Include="Commands\cls.cs" />
+    <Compile Include="PonsleSTD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TestCommand.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PonsoleAPI\PonsleAPI.csproj">

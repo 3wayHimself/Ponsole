@@ -1,0 +1,2 @@
+D:\Ponsle\Ponsle Installer\bin\Debug\Ponsle_Installer.msi
+D:\Ponsle\Ponsle Installer\bin\Debug\Ponsle_Installer.wixpdb

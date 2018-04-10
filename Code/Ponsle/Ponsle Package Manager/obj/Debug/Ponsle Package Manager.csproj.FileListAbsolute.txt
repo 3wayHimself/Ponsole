@@ -1,0 +1,10 @@
+D:\Ponsle\Ponsle Package Manager\bin\Debug\ponslepkgmanager64.exe.config
+D:\Ponsle\Ponsle Package Manager\bin\Debug\ponslepkgmanager64.exe
+D:\Ponsle\Ponsle Package Manager\bin\Debug\ponslepkgmanager64.pdb
+D:\Ponsle\Ponsle Package Manager\obj\Debug\Ponsle_Package_Manager.Form1.resources
+D:\Ponsle\Ponsle Package Manager\obj\Debug\Ponsle_Package_Manager.Properties.Resources.resources
+D:\Ponsle\Ponsle Package Manager\obj\Debug\Ponsle Package Manager.csproj.GenerateResource.cache
+D:\Ponsle\Ponsle Package Manager\obj\Debug\Ponsle Package Manager.csproj.CoreCompileInputs.cache
+D:\Ponsle\Ponsle Package Manager\obj\Debug\ponslepkgmanager64.exe
+D:\Ponsle\Ponsle Package Manager\obj\Debug\ponslepkgmanager64.pdb
+D:\Ponsle\Ponsle Package Manager\obj\Debug\Ponsle Package Manager.csprojResolveAssemblyReference.cache
