@@ -1,6 +1,0 @@
-D:\dev\SmartUtils\bin\Debug\SmartUtils.dll
-D:\dev\SmartUtils\bin\Debug\SmartUtils.pdb
-D:\dev\SmartUtils\obj\Debug\SmartUtils.csproj.CoreCompileInputs.cache
-D:\dev\SmartUtils\obj\Debug\SmartUtils.dll
-D:\dev\SmartUtils\obj\Debug\SmartUtils.pdb
-D:\dev\SmartUtils\obj\Debug\SmartUtils.csprojResolveAssemblyReference.cache

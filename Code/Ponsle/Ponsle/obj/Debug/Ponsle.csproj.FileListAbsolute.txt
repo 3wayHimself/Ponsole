@@ -4,7 +4,6 @@ D:\Ponsle\Ponsle\obj\Debug\Ponsle.csprojResolveAssemblyReference.cache
 D:\Ponsle\Ponsle\obj\Debug\Ponsle.csproj.CoreCompileInputs.cache
 D:\Ponsle\Ponsle\obj\Debug\ponsle64.exe
 D:\Ponsle\Ponsle\bin\Debug\SmartUtils.dll
-D:\Ponsle\Ponsle\bin\Debug\SmartUtils.pdb
 D:\Ponsle\Ponsle\obj\Debug\Ponsle.csproj.CopyComplete
 D:\Ponsle\Ponsle\obj\Debug\Ponsle.Properties.Resources.resources
 D:\Ponsle\Ponsle\obj\Debug\Ponsle.csproj.GenerateResource.cache

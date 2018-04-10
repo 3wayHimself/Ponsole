@@ -42,6 +42,10 @@
     <ApplicationIcon>terminal.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="SmartUtils, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SmartUtils.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Core" />
@@ -73,10 +77,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\dev\SmartUtils\SmartUtils.csproj">
-      <Project>{1eedd59c-75c6-478b-a2ee-0f2110da83d8}</Project>
-      <Name>SmartUtils</Name>
-    </ProjectReference>
     <ProjectReference Include="..\PonsoleAPI\PonsleAPI.csproj">
       <Project>{64cdd94d-29a0-4907-903b-c5ce32abdf01}</Project>
       <Name>PonsleAPI</Name>
