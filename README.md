@@ -3,8 +3,19 @@ The open-source terminal written in C#
 
 # Download
 
+NOTE: Your PC and browser may complain that the istaller is dangerous. It is not. So just run the installer anyway.
+
 Ponsle for Windows (64bit) can be downloaded: [here](https://github.com/Ponsle/Ponsole/blob/master/Ponsole_Setup_Win64.exe?raw=true)
 
+Files that will be installed:
+
+```text
+ponsle64.exe
+PonsleAPI.dll
+cd.txt
+SmartUtils.dll
+Plugins\Ponsle_std.dll
+```
 # Q&A
 
 Q: How do I get Ponsle?
