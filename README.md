@@ -1,6 +1,10 @@
 # Ponsole
 The open-source terminal written in C#
 
+# Download
+
+Ponsle for Windows (64bit) can be downloaded: [here](https://github.com/Ponsle/Ponsole/blob/master/Ponsole_Setup_Win64.exe?raw=true)
+
 # Q&A
 
 Q: How do I get Ponsle?
